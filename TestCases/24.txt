@@ -1,0 +1,19 @@
+0:
+1	49501	956
+1	99007	1408
+
+1:
+1	58505	786
+1	99003	1840
+
+2:
+1	148521	655
+1	36002	223
+
+Stat:
+ratio of A wins : 1
+ratio of B wins : 0
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 1
+ratio of (B wins + tie) : 0

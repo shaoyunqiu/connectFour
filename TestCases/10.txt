@@ -1,0 +1,19 @@
+0:
+1	49498	273
+1	45002	319
+
+1:
+1	54014	718
+1	40501	149
+
+2:
+1	49503	150
+1	31509	111
+
+Stat:
+ratio of A wins : 1
+ratio of B wins : 0
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 1
+ratio of (B wins + tie) : 0
